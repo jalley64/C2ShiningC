@@ -79,11 +79,11 @@ TBD
 ## __Section II - League Dues__ ##
 
 ### Entry Fee ###
-- The Entry Fee for the league is $25 per season. With two seasons required upfront. 
+- The Entry Fee for the league is $40 per season. With two seasons required upfront. $25 of the 40 will go towards the pro league and $15 of the 40 will go towards the college league prize pool.
 - Players must have already paid the two season payment before being permitted to draft.
 
 ### Yearly Dues ###
-- After the first year there is a yearly total of $25.
+- After the first year there is a yearly total of $40.
 - Payment must be paid prior to the yearly draft.
 
 ### Penalties ###
@@ -92,15 +92,21 @@ If a team does not pay their dues by the designated date they are not eligible t
 <br><br>
 
 ## __Section III - Payout__ ##
-- 1st Place: $200 (66%)
+### Nfl Payout ###
+- 1st Place: $200 (~66%)
 - 2nd Place: $75 (25%)
-- 3rd Place: $25 (8%)
+- 3rd Place: $25 (~8%)
+
+### College Payout ###
+- 1st Place: $120 (~66%)
+- 2nd Place: $45 (25%)
+- 3rd Place: $15 (8%)
 
 <br><br>
 
 ## __Section IV - Rosters__ ##
 
-### Rosters ###
+### NFL Rosters ###
    Position | Starters | Maximum
    -------- |--------- | -------
    QB | 1 | No Limit
@@ -111,10 +117,21 @@ If a team does not pay their dues by the designated date they are not eligible t
    SuperFlex (QB/WR/RB/TE) | 1 | No Limit
    BE | 20 | No Limit
    IR | 2 | No Limit
+   
+   ### College Rosters ###
+   Position | Starters | Maximum
+   -------- |--------- | -------
+   QB | 2 | No Limit
+   RB | 3 | No Limit
+   WR | 3 | No Limit
+   TE | 1 | No Limit
+   FLEX (RB/WR/TE) | 5 | No Limit
+   BE | 31 | No Limit
+   IR | 2 | No Limit
 
 ## __Section V - Free Agency & Trading__ ##
 
-### Free Agency ###
+### NFL Free Agency ###
 
 - Each team will receive $200 for a Free Agency Aquisition Budget
 - Minimum bid to get a FA off waivers is $0
@@ -125,40 +142,56 @@ If a team does not pay their dues by the designated date they are not eligible t
 - Daily waivers will be used throughout the season and offseason, outside of locking from gametime through the start of the week waiver clear. 
 - Waivers and free agency lock after the championship game. It will open back up following the draft. Any available FA's or vets ARE eligible to be drafted in the yearly draft.
 
+### College Free Agency ###
+
+- There will be 2 waiver runs each season...one at week 5 and one at week 9. During each run managers are only allowed to drop/add a maximum of one player. 
+- Teams will have 100 faab budget that does not reset until the end of the season.
+- all other waiver and free agency transactions will be blocked.
+
 ### Trades ###
 - Trades will be processed right away, if collusion is suspected file a report with the commissioner.
 - During the offseason trading is still allowed.
 - Trade deadline begins as soon as the first playoff game starts.
 - You must have paid that years fee for any draft picks that you trade. So if you trade a draft pick that is for the year 2022, then you must have paid the league dues for the 22 season. 
+- Any trade involving college pieces needs to be announced in the sleeper chat.
 
 <br><br>
 
 ## __Section VI - Startup Draft__ ##
+### Nfl Draft ###
+- Hosted on sleeper
 - Snake format (1st to 12th then 12th to 1st).
-- The draft will be untimed.
+- The draft will be 12 hour timer.
 - Trading draft picks is allowed during the startup draft.
-- If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them. Missing their pick is defined as going a 24 hour period while on the clock. If this happens multiple times a replacement owner will be found.
+- The first time a team misses a pick, I will pause the draft until they are able to draft.
+- If a team misses their pick again, then the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them. Missing their pick is defined as going a 24 hour period while on the clock. If this happens multiple times a replacement owner will be found.
+
+### College Draft ###
+- Hosted on Fantrax
+- Snake format (1st to 12th then 12th to 1st).
+- The draft will be 12 hour timer.
+- Trading draft picks is allowed during the startup draft.
+- The first time a team misses a pick, I will pause the draft until they are able to draft.
+- If a team misses their pick again, then the best available player based on Fantrax ranking will be selected.
 
 <br><br>
 
 ## __Section VII - Yearly Draft__ ##
 
-### Draft Order ###
+### NFL Draft Order ###
 - The draft order for the rookie draft will be determined based on both regular and post-season results
 - Picks 1-6 will be assigned in inverse order of the Max Points For standings.
 - Picks 7 and 8 will be determined by the inverse order of the Max Points For between the two teams that lost the first round of the playoffs.
 - Picks 9-12 will be assigned in inverse order of the postseason standings
 
-### Draft Settings ###
-- There will be 5 rounds of the yearly draft.
-- Any devy players/rookies/free agents are all eligible to be drafted.
+### NFL Rookie Draft Settings ###
+- There will be 2 rounds of the yearly draft.
 - The rookie draft will typically take place a week after the NFL draft.
 - The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.)
 - The draft will be untimed
 - Trading draft picks is allowed during the draft
 - If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/rookies.php) will be taken for them
-- Any undrafted college and high school players are not eligible to be drafted until the following year. 
-- Any undrafted player who is in the NFL will be treated as a common FA. If they are unavailable in the database you must message the commissioner or co-commissioners to claim them and leave a spot open on your roster once they confirm your request. If no spot is open when the player becomes available then there will be no priority given to the team that claimed them.
+ 
 
 ## Trading Draft Picks ##
 - Players must pay for any year's picks which they are trading away. For example if I trade away my 2022 2nd round pick, i must have paid the dues for the 2022 season.
@@ -183,12 +216,13 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 ## __Section X - Scoring__ ##
 
+### NFL Scoring ###
 <table>
     <tr>
     <td>Passing</td>
     <td>Passing Yards (PY)<br>Interception Thrown (INT)<br>TD Pass (PTD)<br>2 Point Conversion (2PC)</td>
-    <td>.04<br>-2<br>6<br>-4</td>
-  0  </tr>
+    <td>.04<br>-4<br>6<br>2</td>
+    </tr>
      <tr>
         <td>Rushing</td>
         <td>Rushing Yards (RY)<br>Rushing TD (RTD)<br>2 Point Conversion (2PR)<br>Each Reception (REC)</td>
@@ -206,6 +240,32 @@ If a team does not pay their dues by the designated date they are not eligible t
       </tr>
 </table>
 
+### College Scoring ###
+<table>
+    <tr>
+    <td>Passing</td>
+    <td>Passing Yards (PY)<br>Interception Thrown (INT)<br>TD Pass (PTD)<br>2 Point Conversion (2PC)</td>
+    <td>.04<br>-2<br>6<br>2</td>
+    </tr>
+     <tr>
+        <td>Rushing</td>
+        <td>Rushing Yards (RY)<br>Rushing TD (RTD)<br>2 Point Conversion (2PR)<br>Each Reception (REC)</td>
+        <td>0.1<br>6<br>2<br>1</td>
+      </tr>
+      <tr>
+        <td>Receiving</td>
+        <td>Receiving Yards (REY)<br>Receiving TD (RETD)<br>2 Point Conversion (2PRE)<br>Each Reception (REC) (Tight End Premium)</td>
+        <td>0.1<br>6<br>2<br>1 (.25)</td>
+      </tr>
+      <tr>
+        <td>Miscellaneous </td>
+        <td>Total Fumbles Lost</td>
+        <td>-2</td>
+      </tr>
+</table>
+
+College will use BestBall scoring. This means that you will not set your lineup on a weekly basis. Rather the top players at each position will be used to fill out your lineup. First the specific positions will be filled (Ie your RB1 will be your highest scoring RB and your RB2 your second highest) once all position locked spots are filled, then the flex positions will be populated based on the remaining highest scorers between all eligible positions.
+
 ## __Section XI - Leaving the League__ ##
 ### Leaving the League ###
 - In the event that you wish to leave the league, you must let us know a year in advance, no later than the time that the following year's payment is due (a month before the rookie draft). Here is an example. You join the first year and pay the 2019 and 2020 dues. You decide you want to leave the league. You must notify the commissioner that 2020 will be your last year by late March 2020 (when the 2021 payment is due). 
@@ -221,14 +281,6 @@ If a team does not pay their dues by the designated date they are not eligible t
 - If an owner is still not found, the league will vote on whether to shrink in size (down to 10) or disburse.
 - If multiple owners leave at the same time, both of their players will be merged into a player pool, and new owners will have a draft to select their teams. 
 
-## __Section XII - Devy Component__ ##
-- This is a devy league, meaning that players can draft people who are still in college and or highschool for their teams. 
-- Devy players are not eligible to be on your actual roster until they have exhausted their college eligibility or they have been drafted (or signed) by an NFL team.
-- The is no limit on the number of devy players that a team can have
-- Devy players will be handled by a google sheets spreadsheet.
-- In order to trade devy players, both party members must announce the inclusion of devy players in the league chat at the time a trade goes through and the commish will udpate the spreadsheet accordingly.
-- Devy players "mature" into roseterable players on June 30th each year. By the 30th, all users must inform which of their maturing devy players they wish to move to their roster, and which ones they choose to cut. On July  1st all unwanted "mature" devy players will get sent to waivers and freeagency.
-- There is no limit on the age a potential devy prospect can be. If a user wants to draft a 13-year old phenom then that is their prerogative.
 
 ## __Section XIII - Misc__ ##
 - In the case that there is a discrepancy between the rules on the site and the rules stated here, please inform the commissioner immediately. If for some reason the commissioner is unavailable, the rules here take precedence. 
