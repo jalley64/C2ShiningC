@@ -173,6 +173,9 @@ If a team does not pay their dues by the designated date they are not eligible t
 - Trading draft picks is allowed during the startup draft.
 - The first time a team misses a pick, I will pause the draft until they are able to draft.
 - If a team misses their pick again, then the best available player based on Fantrax ranking will be selected.
+- College draft is 15 rounds long
+- Fantrax will not let you go past the roster limit, so any picks that will put you over the 45 man limit will result in a skipped pick.
+- Players are expected to cut down BEFORE the draft so that they know how many picks that they will have. Do not cut more than the number of picks that you have or you will be rolling into the season short on players.
 
 <br><br>
 
