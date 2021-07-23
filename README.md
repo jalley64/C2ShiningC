@@ -71,11 +71,6 @@ TBD
 
 <br>
 
-### Tanking ###
--Tanking is not tolerated. Trading all of your players away so that your roster is worse, netting you a better pick, is not considered tanking. The argument that "it is my money and I can do what I want with it" does not carry water, as your actions affect other league members and what happens with their money. Players are still expected to field competitive lineups, this includes not starting players on byes or with injuries. I understand that picking starting lineups is subjective and part of the allure of the game, however you are not permitted to field an intentionally uncompetitive lineup. I will be willing to give the benefit of the doubt on this issue unless it becomes a trend. This also will be a judgment call that I will do my best to be fair and consistent with. Finally, I commission a lot of leagues and depend on you guys to help me enforce these rules. I may miss when one team starts someone on bye, I need your help reporting these issues to me so that I can ensure a competitive league. Violators of these rules will receive a warning the first time, followed by loss of 1st round draft pick, followed by removal from the league and forfeiture of buyin.
-
-<br><br>
-
 ## __Section II - League Dues__ ##
 
 ### Entry Fee ###
